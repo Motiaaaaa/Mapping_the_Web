@@ -56,7 +56,7 @@ The Internet of Things (IoT) is a concept where everyday objects and devices are
 
 
 
-# IoT Scavenger Hunt Questions 🎯
+# IoT Scavenger Hunt Questions
 
 ## 1. Fill in the Blank
 "The _________ protocol ensures secure communication between IoT devices and web servers."
@@ -70,11 +70,7 @@ The Internet of Things (IoT) is a concept where everyday objects and devices are
 - D) IPv6
 - **Answer:** C) Bluetooth
 
-## 3. Open Answer
-"Explain one way HTTP or HTTPS is used in managing IoT devices through browsers."
-- **Answer:** HTTP and HTTPS are used to send and retrieve data between IoT devices and cloud platforms or web servers. They enable secure, web-based interactions like viewing dashboards, remotely controlling devices, or configuring settings.
-
-## 4. Matching
+## 3. Matching
 "Match the following terms to their correct definitions:"
 - **Terms:**
   1. IPv6  
